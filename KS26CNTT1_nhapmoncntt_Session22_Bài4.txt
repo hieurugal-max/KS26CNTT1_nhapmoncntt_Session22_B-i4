@@ -1,0 +1,33 @@
+Bài 4 : Đánh giá chất lượng giải pháp trên Stack Overflow
+1. bảng so sánh Ưu/Nhược điểm của 2 giải pháp
+Độ tin cậy lịch sử : 
+- phải pháp 1 : 
++ ưu điểm là có tích xanh, 500 upvotes
++ nhược điểm là đã đăng từ năm 2014
+- giải pháp 2 :
++ ưu điểm là có 50 upvotes 
++ nhược điểm là chưa có tích xanh
+
+
+Tính cập nhật :
+- Giải pháp 1 :
++ Ưu điểm là giải pháp đã được nhiều người đánh giá cao
++ Nhược điểm là Có thể không còn phù hợp với hệ điều hành mới
+- giải pháp 2 :
++ Ưu điểm là đăng năm 2023, có người xác nhận chạy trên Windows 11
++ nhược điểm là chưa chắc phù hợp với hệ điểu hành mới
+
+
+Rủi ro gây hỏng thiết bị :
+- giải pháp 1 :
++ Ưu điểm là có nhiều lượt đánh giá nên dễ tham khảo và kiểm chứng
++ nhược điểm là lệnh cũ có thể làm thay đổi cấu hình Git không phù hợp
+- giải pháp 2 :
++ Ưu điểm là có thông tin xác nhận từ người dùng Windows 11
++ Nhược điểm là vẫn có thể gây lỗi nếu áp dụng sai hoặc không phù hợp cấu hình hiện tại
+
+
+2.
+- chọn ciải pháp 2 vì được đăng năm 2023 và có bình luận xác nhận hoạt động trên Windows 11
+- Tích xanh không phải lúc nào cũng là ưu tiên số 1 vì nó chỉ xác nhận câu trả lời từng giải quyết được vấn đề, không đảm bảo còn phù hợp với các phiên bản hệ điều hành mới
+
